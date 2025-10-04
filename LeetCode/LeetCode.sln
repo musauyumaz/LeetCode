@@ -1,6 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1518-WaterBottles", "1518-WaterBottles\1518-WaterBottles.csproj", "{58DD62AA-C88F-418A-856D-926AAEDC7080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-AddTwoNumbers", "2-AddTwoNumbers\2-AddTwoNumbers.csproj", "{75D70325-57E7-4B10-A953-C02ED2495F13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +17,15 @@ Global
 		{58DD62AA-C88F-418A-856D-926AAEDC7080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DD62AA-C88F-418A-856D-926AAEDC7080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DD62AA-C88F-418A-856D-926AAEDC7080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D70325-57E7-4B10-A953-C02ED2495F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D70325-57E7-4B10-A953-C02ED2495F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D70325-57E7-4B10-A953-C02ED2495F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D70325-57E7-4B10-A953-C02ED2495F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B4CED4-3036-4812-9E53-EC60E5E9E531}
 	EndGlobalSection
 EndGlobal

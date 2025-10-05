@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1518-WaterBottles", "1518-WaterBottles\1518-WaterBottles.csproj", "{58DD62AA-C88F-418A-856D-926AAEDC7080}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-AddTwoNumbers", "2-AddTwoNumbers\2-AddTwoNumbers.csproj", "{75D70325-57E7-4B10-A953-C02ED2495F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-LongestSubstringWithoutRepeatingCharacters", "3-LongestSubstringWithoutRepeatingCharacters\3-LongestSubstringWithoutRepeatingCharacters.csproj", "{BEA919A6-3090-4069-B41D-4F898FF1F436}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{75D70325-57E7-4B10-A953-C02ED2495F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D70325-57E7-4B10-A953-C02ED2495F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D70325-57E7-4B10-A953-C02ED2495F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA919A6-3090-4069-B41D-4F898FF1F436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA919A6-3090-4069-B41D-4F898FF1F436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA919A6-3090-4069-B41D-4F898FF1F436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA919A6-3090-4069-B41D-4F898FF1F436}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

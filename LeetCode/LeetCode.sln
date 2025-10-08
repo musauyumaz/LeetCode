@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-MedianOfTwoSortedArrays",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-LongestPalindromicSubstring", "5-LongestPalindromicSubstring\5-LongestPalindromicSubstring.csproj", "{61D99B60-92FE-46AB-BAC5-CBF71AC26C3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2300-SuccessfulPairsOfSpellsAndPotions", "2300-SuccessfulPairsOfSpellsAndPotions\2300-SuccessfulPairsOfSpellsAndPotions.csproj", "{D54A4F1C-4A1E-40CD-96EE-5D1C26083401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{61D99B60-92FE-46AB-BAC5-CBF71AC26C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D99B60-92FE-46AB-BAC5-CBF71AC26C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D99B60-92FE-46AB-BAC5-CBF71AC26C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54A4F1C-4A1E-40CD-96EE-5D1C26083401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54A4F1C-4A1E-40CD-96EE-5D1C26083401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54A4F1C-4A1E-40CD-96EE-5D1C26083401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54A4F1C-4A1E-40CD-96EE-5D1C26083401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

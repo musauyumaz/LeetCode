@@ -7,4 +7,5 @@
 //Q00005_LongestPalindromicSubstring.Test();
 //Q01518_WaterBottles.Test();
 //Q02540_MinimumCommonValue.Test();
-Q00006_ZigzagConversion.Test();
+//Q00006_ZigzagConversion.Test();
+Q00007_ReverseInteger.Test();

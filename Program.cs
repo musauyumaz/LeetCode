@@ -9,6 +9,10 @@
 //solution.Test();
 #endregion
 #region Q00003_LengthOfLongestSubstring
-Q00003_LengthOfLongestSubstring solution = new();
+//Q00003_LengthOfLongestSubstring solution = new();
+//solution.Test();
+#endregion
+#region Q00004_MedianOfTwoSortedArrays
+Q00004_MedianOfTwoSortedArrays solution = new();
 solution.Test();
 #endregion

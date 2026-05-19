@@ -27,7 +27,7 @@
             return s.Substring((center_index - max_len) / 2, max_len);
         }
 
-        public void Test()
+        public static void Test()
         {
             string s = "a";
             Q00005_LongestPalindromicSubstring solution = new();

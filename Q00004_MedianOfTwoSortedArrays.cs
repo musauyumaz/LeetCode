@@ -19,7 +19,7 @@
             }
 
         }
-        public void Test()
+        public static void Test()
         {
             Q00004_MedianOfTwoSortedArrays solution = new();
             int[] nums1 = { 1, 3 };

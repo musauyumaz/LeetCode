@@ -19,7 +19,7 @@
             return maxLength;
         }
 
-        public void Test()
+        public static void Test()
         {
             Q00003_LengthOfLongestSubstring solution = new();
             string input = "abcabcbb";

@@ -30,4 +30,5 @@
             int[] nums4 = { 3, 4 };
             Console.WriteLine(solution.FindMedianSortedArrays(nums3, nums4));
         }
+    }
 }

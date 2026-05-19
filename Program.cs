@@ -5,4 +5,5 @@
 //Q00003_LengthOfLongestSubstring.Test();
 //Q00004_MedianOfTwoSortedArrays.Test();
 //Q00005_LongestPalindromicSubstring.Test();
-Q01518_WaterBottles.Test();
+//Q01518_WaterBottles.Test();
+Q02540_MinimumCommonValue.Test();

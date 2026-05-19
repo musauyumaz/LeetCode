@@ -13,6 +13,10 @@
 //solution.Test();
 #endregion
 #region Q00004_MedianOfTwoSortedArrays
-Q00004_MedianOfTwoSortedArrays solution = new();
+//Q00004_MedianOfTwoSortedArrays solution = new();
+//solution.Test();
+#endregion
+#region Q00005_LongestPalindromicSubstring
+Q00005_LongestPalindromicSubstring solution = new();
 solution.Test();
 #endregion

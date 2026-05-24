@@ -13,4 +13,5 @@
 //Q00033_SearchInRotatedSortedArray.Test();
 //Q02657_FindThePrefixCommonArrayOfTwoArrays.Test();,
 //Q01752_CheckIfArrayIsSortedAndRotated.Test();
-Q00008_StringToIntegerATOI.Test();
+//Q00008_StringToIntegerATOI.Test();
+Q00009_PalindromeNumber.Test();

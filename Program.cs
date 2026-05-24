@@ -12,4 +12,5 @@
 //Q03043_FindTheLengthOfTheLongestCommonPrefix.Test();
 //Q00033_SearchInRotatedSortedArray.Test();
 //Q02657_FindThePrefixCommonArrayOfTwoArrays.Test();,
-Q01752_CheckIfArrayIsSortedAndRotated.Test();
+//Q01752_CheckIfArrayIsSortedAndRotated.Test();
+Q00008_StringToIntegerATOI.Test();
